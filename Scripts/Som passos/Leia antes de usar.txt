@@ -1,0 +1,3 @@
+Esse passos é usado em cada pé, você precisará colocar um colisor em cada pé do personagem
+e um audio source, e terá que colocar um tag em cada tipo de chão que o personagem tem chance
+de pisar.
